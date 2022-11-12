@@ -4,7 +4,7 @@ A56,Muller et al.,full,full,partial,no,no,no,no,no,no
 A02,Bayerl et al.,full,partial,no,full,full,no,no,no,no
 A04,Sarabia-Jácome et al.,full,partial,no,full,full,no,partial,no,partial
 A05,Xu et al.,full,full,no,full,full,full,full,no,no
-A06,Hegemier et al.,full,no,no,no,partial,no,full,no,partial
+A06,Hegemier et al.,full,no,no,no,partial,no,partial,no,partial
 A08,Shi et al.,full,no,no,full,full,no,no,full,no
 A13,Quintero et al.,full,no,no,full,full,no,partial,no,partial
 A14,Johny et al.,full,no,no,no,full,no,partial,no,partial
@@ -12,10 +12,10 @@ A17,Sultana et al.,full,full,full,partial,no,no,full,full,full
 A18,Alonso et al.,full,partial,no,full,partial,no,full,no,full
 A22,Salhaoui et al.,full,no,no,no,partial,no,partial,no,partial
 A23,Bellocchio et al.,full,no,no,no,no,no,partial,full,full
-A24,Schubert et al.,full,full,full,no,no,no,partial,partial,no
+A24,Schubert et al.,full,full,full,no,no,no,no,full,full
 A30,Alves et al.,full,full,full,no,no,no,full,full,full
 A34,Cabanes et al.,full,full,full,no,no,no,no,no,no
-A40,Zhang et al.,full,full,no,no,full,partial,full,partial,no
+A40,Zhang et al.,full,full,no,no,full,partial,full,no,no
 A42,Schumann et al.,full,full,full,no,no,no,full,full,full
 A47,Habibi et al.,full,full,partial,no,no,no,no,partial,partial
 A49,Falcao et al.,full,full,no,no,no,no,no,no,no

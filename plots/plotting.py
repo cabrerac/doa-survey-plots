@@ -2,6 +2,7 @@ import pandas as pd
 pd.options.mode.chained_assignment = None
 import seaborn as sns
 import matplotlib.pyplot as plt
+import numpy as np
 import networkx as nx
 from pathlib import Path
 
@@ -29,7 +30,7 @@ def plot_results(data_path):
     results = results.drop(columns=['id', 'research work'])
     counts = results.apply(pd.value_counts)
     counts = counts.fillna(0)
-    counts = (counts/total_papers)
+    counts = counts/total_papers
     counts = counts.reindex(['full', 'partial', 'no'])
 
     data_first = counts[["data driven", "shared data model", "data coupling"]]
@@ -41,7 +42,7 @@ def plot_results(data_path):
     fig.savefig('./figs/data-first.pdf')
 
     decentralised = counts[["local data chunks", "local first", "wireless first"]]
-    xticks = ["Local data \n chunks", "Local first", "Wireless first"]
+    xticks = ["Local data \n chunks", "Local first", "Peer-to-peer \n first"]
     fig, ax = plt.subplots(1, 1, figsize=(10, 10))
     sns.heatmap(decentralised, annot=True, cmap="Blues", vmin=0, vmax=1, fmt='.1%', cbar=False, linewidth=.5, xticklabels=xticks, yticklabels=yticks, ax=ax)
     ax.set(xlabel="Principle", ylabel="Adoption")

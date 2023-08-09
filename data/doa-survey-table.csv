@@ -6,10 +6,10 @@ A06,Hegemier2021,Hegemier et al.,full,no,no,partial,partial,no,partial,no,partia
 A08,Shi2019,Shi et al.,full,no,no,partial,full,no,no,full,no
 A13,Quintero2019,Quintero et al.,full,no,no,no,full,no,partial,no,partial
 A14,Johny2021,Johny et al.,full,no,no,no,full,no,partial,no,partial
-A17,Sultana2021,Sultana et al.,full,full,full,partial,no,no,full,full,full
+A17,Sultana2021,Sultana et al.,full,full,full,no,no,no,full,full,full
 A18,Alonso2020,Alonso et al.,full,partial,no,partial,partial,no,full,no,full
-A22,Salhaoui2020,Salhaoui et al.,full,no,no,no,partial,no,partial,no,partial
-A23,bellocchio2016smartseal,Bellocchio et al.,full,full,no,no,no,no,partial,full,full
+A22,Salhaoui2020,Salhaoui et al.,full,no,no,partial,partial,no,partial,no,partial
+A23,bellocchio2016smartseal,Bellocchio et al.,full,full,no,partial,no,no,partial,full,full
 A24,schubert2021onorbit,Schubert et al.,full,full,full,no,no,no,no,full,full
 A28,Junchen2017,Junchen et al.,full,full,full,partial,full,full,full,full,full
 A30,alves2020industry,Alves et al.,full,full,full,no,no,no,full,full,full
@@ -21,8 +21,7 @@ A49,falcao2021piwims,Falcao et al.,full,full,no,no,no,no,no,no,no
 A51,qiu2020phm,Qiu et al.,full,no,no,no,no,no,partial,no,no
 A52,gao2016icn,Gao et al.,full,full,partial,no,no,no,no,no,no
 A56,Muller2019,Muller et al.,full,full,partial,no,no,no,no,no,no
-A57,shih2020warning,Shih et al.,full,full,partial,no,no,no,partial,no,partial
-A62,decaro2022toolkit,De Caro et al.,full,full,full,no,no,no,full,full,full
+A57,shih2020warning,Shih et al.,full,full,partial,no,no,no,partial,partial,partial
 A63,franklin2014lida,Franklin et al.,full,no,no,no,no,no,full,full,full
 A66,shan2022poligraph,Shan et al.,full,full,no,full,full,full,no,no,no
 A71,zhang2016emotion,Zhang et al.,full,full,full,full,full,full,full,full,full
@@ -34,8 +33,8 @@ A81,amrollahi2020aidex,Amrollahi et al.,full,partial,partial,no,no,no,no,no,no
 A83,gorkin2020sharkey,Gorkin et al.,full,no,no,partial,no,no,partial,partial,partial
 A84,nguyen2021finger,Nguyen et al.,full,full,full,no,no,no,partial,full,full
 A85,santana2020smartbuildings,Santana et al.,full,full,no,partial,partial,no,partial,no,full
-A88,brumbaugh2019bighead,Brumbaugh et al.,full,partial,partial,partial,partial,partial,no,no,no
-A89,niu2017adls,Niu et al.,full,no,no,partial,no,no,partial,no,no
+A88,brumbaugh2019bighead,Brumbaugh et al.,full,partial,partial,no,partial,partial,no,no,no
+A89,niu2017adls,Niu et al.,full,no,no,no,no,no,partial,no,no
 A90,hawes2017strands,Hawes et al.,full,full,no,no,no,no,no,no,no
 A91,conroy2022infection,Conroy et al.,full,full,full,no,no,no,partial,no,no
 A92,karageorgou2020sentiment,Karageorgou et al.,full,partial,full,full,full,no,full,full,full

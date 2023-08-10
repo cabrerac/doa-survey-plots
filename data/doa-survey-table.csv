@@ -25,12 +25,12 @@ A57,shih2020warning,Shih et al.,full,full,partial,no,no,no,partial,partial,parti
 A63,franklin2014lida,Franklin et al.,full,no,no,no,no,no,full,full,full
 A66,shan2022poligraph,Shan et al.,full,full,no,full,full,full,no,no,no
 A71,zhang2016emotion,Zhang et al.,full,full,full,full,full,full,full,full,full
-A72,barachi2020crowdsensing,Barachi et al. ,full,no,no,partial,no,no,partial,no,no
-A74,calancea2019iassistme,Calancea et al.,full,no,no,partial,partial,no,partial,partial,partial
+A72,barachi2020crowdsensing,Barachi et al. ,full,no,no,no,no,no,partial,no,no
+A74,calancea2019iassistme,Calancea et al.,full,no,no,no,partial,no,partial,partial,partial
 A76,herrero2022i40,"Herrero et al., RAI4.0 Lopez et al.",full,full,full,full,full,full,full,full,full
 A80,kemsaram2020vision,Kemsaram et al.,full,full,no,no,full,no,no,no,no
 A81,amrollahi2020aidex,Amrollahi et al.,full,partial,partial,no,no,no,no,no,no
-A83,gorkin2020sharkey,Gorkin et al.,full,no,no,partial,no,no,partial,partial,partial
+A83,gorkin2020sharkey,Gorkin et al.,full,no,no,no,no,no,partial,partial,partial
 A84,nguyen2021finger,Nguyen et al.,full,full,full,no,no,no,partial,full,full
 A85,santana2020smartbuildings,Santana et al.,full,full,no,partial,partial,no,partial,no,full
 A88,brumbaugh2019bighead,Brumbaugh et al.,full,partial,partial,no,partial,partial,no,no,no
@@ -38,8 +38,8 @@ A89,niu2017adls,Niu et al.,full,no,no,no,no,no,partial,no,no
 A90,hawes2017strands,Hawes et al.,full,full,no,no,no,no,no,no,no
 A91,conroy2022infection,Conroy et al.,full,full,full,no,no,no,partial,no,no
 A92,karageorgou2020sentiment,Karageorgou et al.,full,partial,full,full,full,no,full,full,full
-A94,lu2020digitaltwin,Lu et al.,full,full,no,partial,no,partial,partial,no,partial
-A101,gallagher2019intellimav,Gallagher et al.,full,full,partial,partial,no,no,partial,no,no
+A94,lu2020digitaltwin,Lu et al.,full,full,no,no,no,partial,partial,no,partial
+A101,gallagher2019intellimav,Gallagher et al.,full,full,partial,no,no,no,partial,no,no
 A104,agarwal2016making,Agarwal et al.,full,full,full,no,no,no,no,no,no
 A105,dai2019bigdl,Dai et al.,full,full,full,full,full,no,no,no,no
 A110,lebofsky2019breakthrough,Lebofsky et al.,full,full,full,full,full,full,full,full,full

@@ -40,6 +40,7 @@ def plot_results(data_path):
     sns.heatmap(data_first, annot=True, cmap="Blues", vmin=0, vmax=1, fmt='.3%', cbar=False, linewidth=.5, xticklabels=xticks, yticklabels=yticks, ax=ax)
     ax.set(xlabel="Principle", ylabel="Adoption")
     fig.savefig('./figs/data-first.pdf')
+    fig.savefig('./figs/data-first.png')
 
     decentralised = counts[["local data chunks", "local first", "wireless first"]]
     xticks = ["Local data \n chunks", "Local first", "Peer-to-peer \n first"]
@@ -47,6 +48,7 @@ def plot_results(data_path):
     sns.heatmap(decentralised, annot=True, cmap="Blues", vmin=0, vmax=1, fmt='.3%', cbar=False, linewidth=.5, xticklabels=xticks, yticklabels=yticks, ax=ax)
     ax.set(xlabel="Principle", ylabel="Adoption")
     fig.savefig('./figs/decentralised.pdf')
+    fig.savefig('./figs/decentralised.png')
 
     openness = counts[["autonomous entities", "asynchronous entities", "message protocol"]]
     xticks = ["Autonomous \n entities", "Asynchronous \n entities", "Message protocol"]
@@ -54,3 +56,5 @@ def plot_results(data_path):
     sns.heatmap(openness, annot=True, cmap="Blues", vmin=0, vmax=1, fmt='.3%', cbar=False, linewidth=.5, xticklabels=xticks, yticklabels=yticks, ax=ax)
     ax.set(xlabel="Principle", ylabel="Adoption")
     fig.savefig('./figs/openness.pdf')
+    fig.savefig('./figs/openness.png')
+    

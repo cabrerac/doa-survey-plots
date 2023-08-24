@@ -57,4 +57,3 @@ def plot_results(data_path):
     ax.set(xlabel="Principle", ylabel="Adoption")
     fig.savefig('./figs/openness.pdf')
     fig.savefig('./figs/openness.png')
-    

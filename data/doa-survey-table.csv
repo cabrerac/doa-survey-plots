@@ -14,7 +14,7 @@ A24,schubert2021onorbit,Schubert et al.,full,full,full,no,no,no,no,full,full
 A28,Junchen2017,Junchen et al.,full,full,full,partial,full,full,full,full,full
 A30,alves2020industry,Alves et al.,full,full,full,no,no,no,partial,full,full
 A34,cabanes2019autonomous,Cabanes et al.,full,full,full,no,no,no,no,no,no
-A40,zhang202148learningadd,Zhang et al.,full,full,no,full,full,full,full,no,no
+A40,zhang202148learningadd,Zhang et al.,full,full,no,full,full,full,partial,no,no
 A42,schumann2012software,Schumann et al.,full,full,full,no,no,no,no,full,full
 A47,habibi2019itelescope,Habibi et al.,full,full,partial,no,no,no,no,full,partial
 A49,falcao2021piwims,Falcao et al.,full,full,no,no,no,no,no,no,no
@@ -23,7 +23,7 @@ A52,gao2016icn,Gao et al.,full,full,partial,no,no,no,no,no,no
 A56,Muller2019,Muller et al.,full,full,partial,no,no,no,no,no,no
 A57,shih2020warning,Shih et al.,full,full,partial,no,no,no,partial,partial,partial
 A63,franklin2014lida,Franklin et al.,full,no,no,no,no,no,full,full,full
-A66,shan2022poligraph,Shan et al.,full,full,no,full,full,full,no,no,no
+A66,shan2022poligraph,Shan et al.,full,full,full,full,full,full,full,no,no
 A71,zhang2016emotion,Zhang et al.,full,full,full,full,full,full,full,full,full
 A72,barachi2020crowdsensing,Barachi et al. ,full,no,no,no,no,no,partial,no,no
 A74,calancea2019iassistme,Calancea et al.,full,no,no,no,partial,no,partial,partial,partial
@@ -41,6 +41,6 @@ A92,karageorgou2020sentiment,Karageorgou et al.,full,partial,full,full,full,full
 A94,lu2020digitaltwin,Lu et al.,full,full,no,no,no,no,partial,no,partial
 A101,gallagher2019intellimav,Gallagher et al.,full,full,partial,no,no,no,partial,no,no
 A104,agarwal2016making,Agarwal et al.,full,full,full,no,no,no,no,no,no
-A105,dai2019bigdl,Dai et al.,full,full,full,full,full,full,no,no,no
+A105,dai2019bigdl,Dai et al.,full,full,full,full,full,full,full,no,no
 A110,lebofsky2019breakthrough,Lebofsky et al.,full,full,full,full,full,full,full,full,full
 A111,ali2016idviewer,Ali et al.,full,no,no,no,no,no,partial,no,no
